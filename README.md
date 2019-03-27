@@ -21,7 +21,7 @@ pull requests with their solutions to.
 
 Example:
 
-- 20190327-chrisevans-fibonacci-seq/
+- 20190327-chrisevans-fibonacci-seq /
   
   - / README.md
 

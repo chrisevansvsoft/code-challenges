@@ -10,7 +10,10 @@ pull requests with their solutions to.
 
 Example:
 
-20190327-chrisevans-fibonacci-seq
- / README.md
- / src /
- / solutions /
+- 20190327-chrisevans-fibonacci-seq/
+  
+  - / README.md
+
+  - / src /
+
+  - / solutions /

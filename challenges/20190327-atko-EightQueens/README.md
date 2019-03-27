@@ -1,4 +1,7 @@
 Language: golang
+
+Add your solutions to the `solutions` folder as a pull-request
+
 Challenge: create a function that expects a string of eight coordinates of a chess board.
 The program will then work out if the coordinates all have queens on them and return true if all the queens are safe.
 Otherwise return the first of the locations of queens attacking each other
@@ -20,6 +23,8 @@ Points
 -9: use php 
 
 Sandbox: https://play.golang.org/
+
+(src/main.go) - copy this into your solution/name folder
 
 Template:
 
